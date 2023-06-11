@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://zhengtianqi.gitee.io/blog-vue/sitemap.xml
